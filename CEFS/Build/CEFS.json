@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CEFS.data.unityweb",
+"asmCodeUrl": "CEFS.asm.code.unityweb",
+"asmMemoryUrl": "CEFS.asm.memory.unityweb",
+"asmFrameworkUrl": "CEFS.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

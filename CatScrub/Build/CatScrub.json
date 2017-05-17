@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CatScrub.data.unityweb",
+"asmCodeUrl": "CatScrub.asm.code.unityweb",
+"asmMemoryUrl": "CatScrub.asm.memory.unityweb",
+"asmFrameworkUrl": "CatScrub.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
